@@ -1,0 +1,6 @@
+Dave Smith|300
+Matt Scarp|1000
+Parker Dub|400
+Eric Watt|200
+Madison Eckler|500
+Eggy Guy|100
